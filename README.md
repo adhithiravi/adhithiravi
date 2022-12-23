@@ -6,13 +6,13 @@ What I do:
 - I train teams to transition to modern frontend stack and architect/develop their solutions. Through my courses, I have taught over 80,000 students topics such as React, React Native, Next.js, GraphQL, Next.js, and Cypress. My blog has over 20,000 readers every month on Medium. I am also a conference speaker, and love to engage with the tech community to learn and share ideas.
 
 You can find my work below:
-- 📚 Courses: https://app.pluralsight.com/profile/author/adhithi-ravichandran
-- 📝 Blog: https://adhithiravi.medium.com/
-- 🌐 Website: http://adhithiravichandran.com/
+- 📚 [Courses](https://app.pluralsight.com/profile/author/adhithi-ravichandran)
+- 📝 [Blog](https://adhithiravi.medium.com/)
+- 🌐 [Website](http://adhithiravichandran.com/)
 
 Connect with me on Social Media
-- 👩🏻‍💻 Twitter: https://twitter.com/AdhithiRavi
-- 👩🏻‍💻 LinkedIn: https://www.linkedin.com/in/adhithi/
+- 👩🏻‍💻 Twitter: [@AdhithiRavi](https://twitter.com/AdhithiRavi)
+- 👩🏻‍💻 LinkedIn: [adhithi](https://www.linkedin.com/in/adhithi/)
 
 <!---
 adhithiravi/adhithiravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
