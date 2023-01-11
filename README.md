@@ -7,8 +7,9 @@ What I do:
 
 You can find my work below:
 - 📚 [Courses](https://app.pluralsight.com/profile/author/adhithi-ravichandran)
-- 📝 [Blog](https://adhithiravi.medium.com/)
 - 🌐 [Website](https://adhithiravichandran.com/)
+- 📝 [Blog](https://adhithiravi.medium.com/)
+
 
 Connect with me on Social Media
 - 👩🏻‍💻 Twitter: [@AdhithiRavi](https://twitter.com/AdhithiRavi)
