@@ -2,10 +2,14 @@
 - 👩🏻‍💻 I am a Software Consultant, Author and Speaker based in Kansas City. 
 - 🌅 I am the owner and founder of Surya Consulting, Inc. through which I provide various Software Consulting, Architecture, Development and Teaching services.
 
-What I do: 
-- I train teams to transition to modern frontend stack and architect/develop their solutions. Through my courses, I have taught over 130,000 students topics such as React, React Native, Next.js, GraphQL, and Cypress. My blog has over 20,000 readers every month on Medium. I am also a conference speaker, and love to engage with the tech community to learn and share ideas.
-- 🏅 I have been recognized as a Top Voice by LinkedIn for my contributions to the software development community. 
+### What I do
 
+- I help teams adopt AI-assisted coding without losing engineering judgment.
+- I architect scalable React, React Native, Next.js, and TypeScript applications.
+- I design practical workflows for GitHub Copilot, agentic coding, and AI-enabled SDLC.
+- I consult with teams on frontend architecture, AI adoption, governance, and developer productivity.
+- I create courses, talks, and technical content that help developers work smarter.
+- I train teams on modern frontend architecture and AI-assisted development, and I love sharing what I learn through courses, writing, and conference talks. My courses have reached 140,000+ students, and my Medium articles reach 20,000+ readers each month.
 
 You can find my work below:
 - 📚 [Courses](https://www.pluralsight.com/profile/author/adhithi-ravichandran)
