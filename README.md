@@ -13,7 +13,7 @@
 
 You can find my work below:
 - 📚 [Courses](https://www.pluralsight.com/profile/author/adhithi-ravichandran)
-- 🌐 [Website](https://adhithiravichandran.com/)
+- 🌐 [Website](https://suryaconsultinginc.com/)
 - 📝 [Blog](https://adhithiravi.medium.com/)
 
 
